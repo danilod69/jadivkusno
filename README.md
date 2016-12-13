@@ -1,2 +1,0 @@
-# jadivkusno
-cooking website
